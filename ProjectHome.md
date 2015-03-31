@@ -1,0 +1,1 @@
+BOBO2 is a cross-platform game server engine written in C++. The engine pursues best parallelism and scalability. More detail can be found in homepage http://www.bobo2.org/
